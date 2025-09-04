@@ -1,4 +1,4 @@
-#🗺️ Pathfinder in UPES
+# 🗺️ Pathfinder in UPES
 An intelligent campus navigation system for UPES Bidholi that helps students, faculty, and visitors find optimal routes between campus locations using A pathfinding algorithm.*
 Quick Overview
 
